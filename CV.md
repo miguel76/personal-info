@@ -83,6 +83,7 @@ Teaching Experience
 Publications
 ------------
 * P Bottoni, M Ceriani:
+
   __Towards an Ontology-Based Generic Pipeline Editor__.
 	DNIS 2015: 56-73
 * P Bottoni, M Ceriani:
