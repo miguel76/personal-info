@@ -7,12 +7,12 @@ ceriani@di.uniroma1.it
 
 ### Biographical Data ###
 Birth date: 4/5/1976  
-Place of Birth: Rosario (Argentina)  
+Place of Birth: Rosario (Argentina, province of Santa Fe)  
 Citizenship: Italian-Argentinian
 
 ### Education ###
-Master's Degree in Computer Science, "Sapienza" - University of Rome, 2005
-PhD in Computer Science, "Sapienza" - University of Rome, 2015
+* Master's Degree in Computer Science, "Sapienza" - University of Rome, 2005
+* PhD in Computer Science, "Sapienza" - University of Rome, 2015
 
 ### Research Areas ###
 * Linked Data/Semantic Web
@@ -44,6 +44,11 @@ PhD in Computer Science, "Sapienza" - University of Rome, 2015
 * XML Technologies:
 	* XML, XML Schema
 	* XPath, XQuery, XSLT, XPL (antecedent of XProc)
+
+### Language Skills ###
+* Spanish: native
+* Italian: native-like
+* English: very good command (experience in scientifical-technical reading/writing)
 
 ### Professional Experience ###
 * PHD Student in Computer Science, "Sapienza" - University of Rome, 2010-1015, completed
