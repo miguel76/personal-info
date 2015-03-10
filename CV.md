@@ -6,6 +6,18 @@ Department of Computer Science
 Piazzale Aldo Moro 5, 00185 Roma  
 ceriani@di.uniroma1.it
 
+Table of Contents
+-----------------
+[Biographical Data](#user-content-biographical-data)  
+[Education](#user-content-education)  
+[Research Areas](#user-content-research-areas)  
+[Active Projects](#user-content-active-projects)  
+[Technical Skills](#user-content-technical-skills)  
+[Language Skills](#user-content-language-skills)  
+[Professional Experience](#user-content-professional-experience)  
+[Teaching Experience](#user-content-teaching-experience)  
+[Publications](#user-content-publications)  
+
 Biographical Data
 -----------------
 Birth date: 4/5/1976  
