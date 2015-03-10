@@ -94,30 +94,30 @@ Teaching Experience
 
 Publications
 ------------
-* __Towards an Ontology-Based Generic Pipeline Editor__.  
+* [__Towards an Ontology-Based Generic Pipeline Editor__](http://dx.doi.org/10.1007/978-3-319-16313-0_5)  
   _P Bottoni, M Ceriani_
   DNIS 2015: 56-73
-* __SWOWS and Dynamic Queries to build Browsing Applications on Linked Data__.  
+* [__SWOWS and Dynamic Queries to build Browsing Applications on Linked Data__](http://dx.doi.org/10.1016/j.jvlc.2014.10.027)  
   _P Bottoni, M Ceriani_
   Journal of Visual Languages and Computing 25(6): 738-744 (2014)
-* __Collaborative multimedia content creation and sharing by older adults__.  
+* [__Collaborative multimedia content creation and sharing by older adults__](http://doi.acm.org/10.1145/2598153.2600029)  
   _M Ceriani, P Bottoni, S Ventura, A Talamo_
   AVI 2014: 345-346
-* __SWOWS and Dynamic Queries to build Browsing Applications on Linked Data__.  
+* __SWOWS and Dynamic Queries to build Browsing Applications on Linked Data__  
   _P Bottoni, M Ceriani_
   DMS 2014: 121-127
-* __A Dataflow Platform for In-silico Experiments Based on Linked Data__.  
+* [__A Dataflow Platform for In-silico Experiments Based on Linked Data__](http://dx.doi.org/10.1007/978-3-319-05693-7_7)  
   _P Bottoni, M Ceriani_
   DNIS 2014: 112-131
-* __"_Do the gestures you think of_": creating affordances in codesign__.  
+* [__"_Do the gestures you think of_": creating affordances in codesign__](http://doi.acm.org/10.1145/2499149.2499176)  
   _A Talamo, S Ventura, S Giorgi, M Ceriani, P Bottoni, B Mellini_
   CHItaly 2013: 22
-* __A user interface to build interactive visualizations for the semantic web__.  
+* [__A user interface to build interactive visualizations for the semantic web__](http://ceur-ws.org/Vol-1035/iswc2013_demo_42.pdf)  
   _P Bottoni, M Ceriani, S Valentini_
   ISWC (Posters & Demos) 2013: 165-168
-* __Keeping "InTOUCH": An Ongoing Co-design Project to Share Memories, Skills and Demands through an Interactive Table__.  
+* [__Keeping "InTOUCH": An Ongoing Co-design Project to Share Memories, Skills and Demands through an Interactive Table__](http://dx.doi.org/10.1007/978-3-642-39062-3_43)  
   _S Giorgi, M Ceriani, P Bottoni, A Talamo, S Ruggiero_
   SouthCHI 2013: 633-640
-* __Assessment of predictions in the model quality assessment category__,  
+* [__Assessment of predictions in the model quality assessment category__](http://dx.doi.org/10.1002/prot.21669)  
   _D Cozzetto, A Kryshtafovych, M Ceriani, A Tramontano_
   Proteins: Structure, Function, and Bioinformatics 69 (S8), 175-183, Wiley, 2007
