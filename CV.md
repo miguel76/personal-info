@@ -1,30 +1,36 @@
-__Miguel Ceriani, PhD__  
+Miguel Ceriani, PhD
+===================
 (_Michele Geremia Ceriani_ in italian documents)  
 Department of Computer Science  
 "Sapienza" - University of Rome  
 Piazzale Aldo Moro 5, 00185 Roma  
 ceriani@di.uniroma1.it
 
-### Biographical Data ###
+Biographical Data
+-----------------
 Birth date: 4/5/1976  
 Place of Birth: Rosario (Argentina, province of Santa Fe)  
 Citizenship: Italian-Argentinian
 
-### Education ###
+Education
+---------
 * Master's Degree in Computer Science, "Sapienza" - University of Rome, 2005
 * PhD in Computer Science, "Sapienza" - University of Rome, 2015
 
-### Research Areas ###
+Research Areas
+--------------
 * Linked Data/Semantic Web
 * Declarative/Visual Programming
 * Collaboration and Human Computer Interaction
 * Natural/Multi-Modal/Multi-Device User Interfaces
 
-### Active Projects ###
+Active Projects
+---------------
 * [SWOWS](http://swows.org/), platform for building linked data interactive apps through a declarative paradigm
 * InTOUCH, co-design of a collaborative system supporting digital storytelling in recreational centres for older adults
 
-### Technical Skills ###
+Technical Skills
+----------------
 * Languages:
 	* Java
 	* JavaScript
@@ -45,19 +51,22 @@ Citizenship: Italian-Argentinian
 	* XML, XML Schema
 	* XPath, XQuery, XSLT, XPL (antecedent of XProc)
 
-### Language Skills ###
+Language Skills
+---------------
 * Spanish: native
 * Italian: native-like
 * English: very good command (experience in scientifical-technical reading/writing)
 
-### Professional Experience ###
+Professional Experience
+-----------------------
 * PHD Student in Computer Science, "Sapienza" - University of Rome, 2010-1015, completed
 * Webmaster - System Analyst, AIAB (italian NGO), 2009-2010
 * PHD Student in Bioinformatics, "Sapienza" - University of Rome, 2005-2008, withdrew
 * Programmer Analyst, Niuma srl - Roma (Italy), 2002-2005
 * Programmer,  CGI S.p.A - Roma (Italy), 2001  
 
-### Teaching Experience ###
+Teaching Experience
+-------------------
 * Teaching Assistant, "Sapienza" - University of Rome, 2011-2012
 	* Databases (basic course)
 	* Introduction to Programming
@@ -71,7 +80,8 @@ Citizenship: Italian-Argentinian
 	* Microsoft Office
 	* HTML
 
-### Publications ###
+Publications
+------------
 * P Bottoni, M Ceriani:
   __Towards an Ontology-Based Generic Pipeline Editor__.
 	DNIS 2015: 56-73
