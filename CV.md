@@ -71,9 +71,9 @@ Language Skills
 
 Professional Experience
 -----------------------
-* PHD Student in Computer Science, "Sapienza" - University of Rome, 2010-1015, completed
+* PhD Student in Computer Science, "Sapienza" - University of Rome, 2010-1015, completed
 * Webmaster - System Analyst, AIAB (italian NGO), 2009-2010
-* PHD Student in Bioinformatics, "Sapienza" - University of Rome, 2005-2008, withdrew
+* PhD Student in Bioinformatics, "Sapienza" - University of Rome, 2005-2008, withdrew
 * Programmer Analyst, Niuma srl - Roma (Italy), 2002-2005
 * Programmer,  CGI S.p.A - Roma (Italy), 2001  
 
